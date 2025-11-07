@@ -60,6 +60,7 @@ public class NumericPattern9
         }
         rowVal += 1;
         System.out.println();
-    }
+        }
     }
 }
+

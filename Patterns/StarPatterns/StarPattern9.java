@@ -47,7 +47,7 @@ public class StarPattern9
                 {
                     stars2 += 1;
                 }
-
+                
             }
             else
             {
